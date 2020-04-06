@@ -1,7 +1,5 @@
 ﻿
 <?php
-
-
 if(isset($_POST["Liczba1"])){
   $num1 = (int)$_POST["Liczba1"];
   $num2 = (int)$_POST["Liczba2"];
@@ -24,4 +22,4 @@ if(isset($_POST["Liczba1"])){
       }
     }
   }
-?>	
+?>
